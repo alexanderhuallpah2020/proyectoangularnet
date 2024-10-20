@@ -1,0 +1,91 @@
+Server=localhost;Database=master;Trusted_Connection=True;
+
+
+--- comandos para crear proyecto angular
+ng new angular-peliculas
+
+-- Compilar la app angular
+ng serve -o
+
+-- crear servicio angular
+ng generate service generos/géneros --skip-tests
+
+--angular material
+ng add @angular/material
+
+
+--crear menú
+ng g c compartidos/componentes/menu --skip-tests
+
+--crear menú
+ng g c compartidos/componentes/rating --skip-tests
+
+ng g c landing-page --skip-tests
+
+ng g c generos/indice-generos --skip-tests
+
+ng g c generos/crear-generos --skip-tests
+
+ng g c actores/indice-actores --skip-tests
+
+ng g c actores/crear-actor --skip-tests
+
+ng g c peliculas/crear-pelicula --skip-tests
+
+ng g c cines/crear-cine --skip-tests
+
+ng g c cines/indice-cines --skip-tests
+
+ng g c generos/editar-genero --skip-tests
+
+ng g c actores/editar-actor --skip-tests
+
+ng g c cines/editar-cine --skip-tests
+
+ng g c peliculas/editar-pelicula --skip-tests
+
+ng g c generos/formulario-genero --skip-tests
+
+ng g c actores/formulario-actores --skip-tests
+
+Error: MatDatepicker: No provider found for DateAdapter:   npm i moment
+
+npm i @angular/material-moment-adapter
+
+ng g c compartidos/componentes/input-img --skip-tests
+
+ng g c cines/formulario-cines --skip-tests
+
+para mapas: GitHub: ngx-leaflet
+
+npm install leaflet@1.9.4
+
+npm install @bluehalo/ngx-leaflet@18.0.2
+
+npm install --save-dev @types/leaflet@1.9.12
+
+ng g c compartidos/componentes/mapa --skip-tests
+
+ng g c peliculas/filtro-peliculas --skip-tests
+
+ng g c peliculas/formulario-peliculas --skip-tests
+
+ng g c compartidos/componentes/selector-multiple --skip-tests
+
+ng g c actores/autocomplete-actores --skip-tests
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
