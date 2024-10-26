@@ -20,7 +20,7 @@ namespace PeliculasAPI.Controllers
         }
 
         
-        [HttpGet("listado")]
+        [HttpGet]
         [OutputCache(Tags = [cacheTag])]
         public List<Genero> Get()
         {

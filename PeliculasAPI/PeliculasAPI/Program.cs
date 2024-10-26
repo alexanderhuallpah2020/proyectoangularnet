@@ -25,34 +25,27 @@ builder.Services.AddCors(opciones =>
     });
 });
 
-//builder.Services.AddCors(opciones =>
-//{
-//    opciones.AddDefaultPolicy(opcionesCORS =>
-//    {
-//        opcionesCORS.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
-//    });
-//});
-
-
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+//if (app.Environment.IsDevelopment())
+//{
+//    app.UseSwagger();
+//    app.UseSwaggerUI();
+//}
+
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
-
-
-app.UseOutputCache();
 
 app.UseCors();
 
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseOutputCache();
 
 app.Run();

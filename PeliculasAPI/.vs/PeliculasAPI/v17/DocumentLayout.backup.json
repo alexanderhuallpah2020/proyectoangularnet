@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\",
+  "WorkspaceRootPath": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|d:\\desarrollo\\proyecto angular\\peliculasapi\\peliculasapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|d:\\desarrollo\\proyecto angular\\peliculasapi\\peliculasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|d:\\desarrollo\\proyectoangularnet\\peliculasapi\\peliculasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|d:\\desarrollo\\proyecto angular\\peliculasapi\\peliculasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|d:\\desarrollo\\proyectoangularnet\\peliculasapi\\peliculasapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|d:\\desarrollo\\proyecto angular\\peliculasapi\\peliculasapi\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|d:\\desarrollo\\proyecto angular\\peliculasapi\\peliculasapi\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|d:\\desarrollo\\proyectoangularnet\\peliculasapi\\peliculasapi\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|d:\\desarrollo\\proyecto angular\\peliculasapi\\peliculasapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|d:\\desarrollo\\proyectoangularnet\\peliculasapi\\peliculasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|d:\\desarrollo\\proyectoangularnet\\peliculasapi\\peliculasapi\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|d:\\desarrollo\\proyectoangularnet\\peliculasapi\\peliculasapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|d:\\desarrollo\\proyecto angular\\peliculasapi\\peliculasapi\\peliculasapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|d:\\desarrollo\\proyectoangularnet\\peliculasapi\\peliculasapi\\peliculasapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\peliculasapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|d:\\desarrollo\\proyecto angular\\peliculasapi\\peliculasapi\\validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|d:\\desarrollo\\proyectoangularnet\\peliculasapi\\peliculasapi\\validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7D20C21-C38E-404D-89CB-D9410582598E}|PeliculasAPI\\PeliculasAPI.csproj|solutionrelative:peliculasapi\\validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,79 +42,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Genero.cs",
-              "DocumentMoniker": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\Entidades\\Genero.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\Entidades\\Genero.cs",
               "RelativeDocumentMoniker": "PeliculasAPI\\Entidades\\Genero.cs",
-              "ToolTip": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\Entidades\\Genero.cs",
+              "ToolTip": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\Entidades\\Genero.cs",
               "RelativeToolTip": "PeliculasAPI\\Entidades\\Genero.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T17:41:46.735Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "PeliculasAPI\\appsettings.Development.json",
-              "ToolTip": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\appsettings.Development.json",
+              "ToolTip": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\appsettings.Development.json",
               "RelativeToolTip": "PeliculasAPI\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-08T22:59:03.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "PeliculasAPI\\appsettings.json",
-              "ToolTip": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\appsettings.json",
-              "RelativeToolTip": "PeliculasAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-08T22:57:13.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\Program.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\Program.cs",
               "RelativeDocumentMoniker": "PeliculasAPI\\Program.cs",
-              "ToolTip": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\Program.cs",
+              "ToolTip": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\Program.cs",
               "RelativeToolTip": "PeliculasAPI\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T22:08:17.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenerosController.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\Controllers\\GenerosController.cs",
+              "RelativeDocumentMoniker": "PeliculasAPI\\Controllers\\GenerosController.cs",
+              "ToolTip": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\Controllers\\GenerosController.cs",
+              "RelativeToolTip": "PeliculasAPI\\Controllers\\GenerosController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:00:27.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "PeliculasAPI",
-              "DocumentMoniker": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj",
+              "DocumentMoniker": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj",
               "RelativeDocumentMoniker": "PeliculasAPI\\PeliculasAPI.csproj",
-              "ToolTip": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj",
+              "ToolTip": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj",
               "RelativeToolTip": "PeliculasAPI\\PeliculasAPI.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-09-08T23:07:54.791Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PeliculasAPI\\appsettings.json",
+              "ToolTip": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\appsettings.json",
+              "RelativeToolTip": "PeliculasAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T22:57:13.241Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "PeliculasAPI\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "PeliculasAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -122,24 +133,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GenerosController.cs",
-              "DocumentMoniker": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\Controllers\\GenerosController.cs",
-              "RelativeDocumentMoniker": "PeliculasAPI\\Controllers\\GenerosController.cs",
-              "ToolTip": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\Controllers\\GenerosController.cs",
-              "RelativeToolTip": "PeliculasAPI\\Controllers\\GenerosController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T18:00:27.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "PrimeraLetraMayusculaAttribute.cs",
-              "DocumentMoniker": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
               "RelativeDocumentMoniker": "PeliculasAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
-              "ToolTip": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "ToolTip": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
               "RelativeToolTip": "PeliculasAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

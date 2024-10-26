@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj",
+      "projectUniqueName": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj",
       "projectName": "PeliculasAPI",
-      "projectPath": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj",
+      "projectPath": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "D:\\Desarrollo\\Proyecto Angular\\PeliculasAPI\\PeliculasAPI\\obj\\",
+      "outputPath": "D:\\Desarrollo\\proyectoangularnet\\PeliculasAPI\\PeliculasAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
